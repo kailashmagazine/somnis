@@ -13,19 +13,19 @@
   "theme_color": "#15132b",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/app/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/app/icon-512-maskable.png",
+      "src": "icon-512-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -36,35 +36,35 @@
   "related_applications": [],
   "screenshots": [
     {
-      "src": "/app/screenshots/01-hoy.png",
+      "src": "01-hoy.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Pantalla de inicio y los cuatro mundos de Somnis"
     },
     {
-      "src": "/app/screenshots/02-aprender.png",
+      "src": "02-aprender.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Audios, ensenanzas y articulos para sonar"
     },
     {
-      "src": "/app/screenshots/03-faros.png",
+      "src": "03-faros.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Faros: tus simbolos y personajes reunidos"
     },
     {
-      "src": "/app/screenshots/04-editor.png",
+      "src": "04-editor.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Anota cada sueno con su naturaleza"
     },
     {
-      "src": "/app/screenshots/05-wide.png",
+      "src": "05-wide.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
@@ -77,4 +77,3 @@
     "education"
   ]
 }
-C:\Users\Jaguar\somnis-android>
